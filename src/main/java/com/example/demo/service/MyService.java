@@ -6,11 +6,12 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Collections;
-
 import org.json.JSONObject;
 import org.springframework.stereotype.Service;
-
 import com.example.demo.model.Dealer;
+
+
+
 @Service
 public class MyService {
 	ArrayList<Dealer> allDealers= new ArrayList<>();
@@ -33,7 +34,6 @@ public class MyService {
 
 	public ArrayList<Dealer> addDealer(Dealer newDealer) {
 		allDealers.add(newDealer);
-		System.out.println(newDealer);
 		return allDealers;
 	}
 
