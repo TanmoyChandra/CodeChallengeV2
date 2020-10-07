@@ -1,0 +1,75 @@
+2020-10-01 15:24:47 [main] INFO  c.example.demo.service.MyServiceTest - Starting MyServiceTest on DESKTOP-MVHKA3V with PID 12944 (started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:24:47 [main] DEBUG c.example.demo.service.MyServiceTest - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:24:47 [main] INFO  c.example.demo.service.MyServiceTest - No active profile set, falling back to default profiles: default
+2020-10-01 15:24:49 [main] INFO  c.example.demo.service.MyServiceTest - Starting MyServiceTest on DESKTOP-MVHKA3V with PID 12944 (started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:24:49 [main] DEBUG c.example.demo.service.MyServiceTest - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:24:49 [main] INFO  c.example.demo.service.MyServiceTest - No active profile set, falling back to default profiles: default
+2020-10-01 15:26:12 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 13932 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:26:12 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:26:12 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 15:26:22 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 10.753 seconds (JVM running for 12.14)
+2020-10-01 15:26:22 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 15:26:53 [http-nio-8081-exec-2] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:27:00 [http-nio-8081-exec-3] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:27:34 [http-nio-8081-exec-4] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:28:29 [http-nio-8081-exec-7] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:29:49 [http-nio-8081-exec-10] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:35:59 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 14604 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:35:59 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:35:59 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 15:36:05 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 6.555 seconds (JVM running for 7.44)
+2020-10-01 15:36:05 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 15:37:38 [http-nio-8081-exec-1] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:37:45 [http-nio-8081-exec-3] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:44:37 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 11024 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:44:37 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:44:37 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 15:44:42 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 4.593 seconds (JVM running for 5.498)
+2020-10-01 15:44:42 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 15:46:06 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 11804 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:46:06 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:46:06 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 15:46:10 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 4.75 seconds (JVM running for 5.683)
+2020-10-01 15:46:10 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 15:46:22 [http-nio-8081-exec-2] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:46:27 [http-nio-8081-exec-3] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:46:36 [http-nio-8081-exec-4] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:46:45 [http-nio-8081-exec-5] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 15:47:59 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 8956 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 15:47:59 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 15:47:59 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 15:48:03 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 4.168 seconds (JVM running for 5.087)
+2020-10-01 15:48:03 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 15:48:42 [http-nio-8081-exec-2] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 16:17:12 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 5680 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 16:17:12 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 16:17:12 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 16:17:19 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 7.222 seconds (JVM running for 8.114)
+2020-10-01 16:17:19 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 16:18:54 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 13212 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 16:18:54 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 16:18:54 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 16:18:59 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 5.588 seconds (JVM running for 6.568)
+2020-10-01 16:18:59 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 16:20:52 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 16856 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 16:20:52 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 16:20:52 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 16:20:58 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 5.662 seconds (JVM running for 6.543)
+2020-10-01 16:20:58 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 16:22:01 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 8016 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 16:22:01 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 16:22:01 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 16:22:06 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 4.93 seconds (JVM running for 5.866)
+2020-10-01 16:22:06 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 16:22:14 [http-nio-8081-exec-1] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 16:23:19 [http-nio-8081-exec-5] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-10-01 16:27:57 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 11924 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 16:27:57 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 16:27:57 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 16:28:03 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 6.383 seconds (JVM running for 7.274)
+2020-10-01 16:28:03 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-10-01 16:36:05 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 15476 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-10-01 16:36:05 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-01 16:36:05 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-10-01 16:36:16 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 11.414 seconds (JVM running for 14.637)
+2020-10-01 16:36:16 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..

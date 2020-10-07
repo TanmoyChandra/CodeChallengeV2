@@ -1,0 +1,31 @@
+2020-09-30 15:27:26 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 14596 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-09-30 15:27:26 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-09-30 15:27:26 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-09-30 15:27:37 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 10.68 seconds (JVM running for 13.065)
+2020-09-30 15:27:37 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-09-30 15:31:34 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 7716 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-09-30 15:31:34 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-09-30 15:31:34 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-09-30 15:31:45 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 11.209 seconds (JVM running for 14.512)
+2020-09-30 15:31:45 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-09-30 15:32:05 [http-nio-8081-exec-1] INFO  com.example.demo.service.MyService - getAllDealers() Executed
+2020-09-30 15:33:43 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 6540 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-09-30 15:33:43 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-09-30 15:33:43 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-09-30 15:33:52 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 10.136 seconds (JVM running for 13.464)
+2020-09-30 15:33:52 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-09-30 15:34:08 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 8216 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-09-30 15:34:08 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-09-30 15:34:08 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-09-30 15:34:18 [http-nio-8081-exec-1] INFO  com.example.demo.service.MyService - getAllDealers() Executed
+2020-09-30 15:34:19 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 11.455 seconds (JVM running for 14.803)
+2020-09-30 15:34:19 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-09-30 15:35:25 [http-nio-8081-exec-3] INFO  com.example.demo.service.MyService - getAllDealers() Executed
+2020-09-30 15:49:56 [main] INFO  c.e.demo.FirstProjectApplication - Starting FirstProjectApplication on DESKTOP-MVHKA3V with PID 12220 (G:\Work_folder\Spring\firstProject\target\classes started by tanmo in G:\Work_folder\Spring\firstProject)
+2020-09-30 15:49:56 [main] DEBUG c.e.demo.FirstProjectApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-09-30 15:49:56 [main] INFO  c.e.demo.FirstProjectApplication - No active profile set, falling back to default profiles: default
+2020-09-30 15:50:06 [main] INFO  c.e.demo.FirstProjectApplication - Started FirstProjectApplication in 9.899 seconds (JVM running for 13.246)
+2020-09-30 15:50:06 [main] INFO  c.e.demo.FirstProjectApplication - Main method executed..
+2020-09-30 15:50:41 [http-nio-8081-exec-2] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-09-30 15:50:51 [http-nio-8081-exec-3] INFO  com.example.demo.service.MyService - addDealer() Executed
+2020-09-30 15:52:31 [http-nio-8081-exec-6] INFO  com.example.demo.service.MyService - addDealer() Executed
